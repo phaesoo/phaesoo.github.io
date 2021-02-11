@@ -3,14 +3,17 @@ permalink: /resume-en/
 title: "Resume"
 ---
 
-## Content
+---
 
-1. [Basic info.](#basic-info)
+# Content
+
+1. [Basic information](#basic-info)
 2. [Skills](#skills)
 3. [Work Experience](#work-experience)
 
+---
 
-## Basic info.
+# Basic information
 
 - Current employment: Kasa Korea Co., Ltd
 - Position: Software Engineer (Backend)
@@ -18,31 +21,32 @@ title: "Resume"
 - Email: phaesoo@gmail.com
 - Github: https://github.com/phaesoo
 
+---
 
-## Skills
+# Skills
 
-Programming language
-
+### Programming language
 - Main: Python, Go, C/C++
 - Sub: Javascript/HTML/CSS
 
-Framework
+### Framework
 - Web: Django, Flask, React.js
 - Windows: MFC(C++)
 
-Database
+### Database
 - Mysql(mariaDB), Redis, sqlite3
 
-Cloud service
+### Cloud service
 - AWS administrator
 
-DevOps
+### DevOps
 - Kubernetes
 
+---
 
-## Work Experience
+# Work Experience
 
-### Kasa Korea Co., Ltd (2020.04 ~ )
+> ***Kasa Korea**, (2020.04 ~ )*
 
 Exchange for real estate DABS(Digital Asset Backed Securities)
 
@@ -61,7 +65,7 @@ Projects
 - User/auth service refactoring (2020.4 ~ 2020.5)
 
 
-### Haafor Research Korea (2017.07 ~ 2020.04)
+> ***Haafor Research Korea**, (2017.07 ~ 2020.04)*
 
 Research-oriented investment advisory company with its headquarters in Singapore
 
@@ -75,7 +79,7 @@ Roles
 - DevOps: AWS administrator, Migrate on-premise data center into AWS Cloud, remote server monitoring and trouble shooting.
 
 
-### Midas IT (2014.07 ~ 2017.07)
+> ***Midas IT**, (2014.07 ~ 2017.07)*
 
 Develop software for simulating and automating architectural design 
 
