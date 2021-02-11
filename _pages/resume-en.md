@@ -1,6 +1,6 @@
 ---
 permalink: /resume-en/
-title: "Resume (English)"
+title: "Resume"
 ---
 
 ## Content
