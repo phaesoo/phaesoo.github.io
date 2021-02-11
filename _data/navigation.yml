@@ -1,14 +1,5 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "Resume"
     url: /resume-en/
-    children:
-      - title: "Resume (KR)"
-        url: /resume-en/
-      - title: "Resume (EN)"
-        url: /resume-kr/
