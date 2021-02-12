@@ -50,15 +50,15 @@ title: "Resume"
 
 Exchange for real estate DABS(Digital Asset Backed Securities)
 
-Position/Team
+### Position/Team
 - Position: Backend Software Engineer
 - Team: Backend team
 
-Roles
+### Roles
 - Backend engineer of Kasa application
 - Open API system planning & development
 
-Projects
+### Projects
 - Main developer of Open API (2021.2 ~ )
 - Main developer of Trading system of DABS exchange (2020.11 ~ )
 - Main developer of Banking system with HANA Bank (2020.5 ~ )
@@ -69,11 +69,11 @@ Projects
 
 Research-oriented investment advisory company with its headquarters in Singapore
 
-Position/Team
+### Position/Team
 - Position: Vice President in Production/Quant Development, Production team manager
 - Team: Production team
 
-Roles
+### Roles
 - Production: Develop socket based model(data, prediction models) processing automation server and related tools and realtime production monitoring tool
 - Visualization: Full stack development for data information visualization tool (with Django, Bokeh)
 - DevOps: AWS administrator, Migrate on-premise data center into AWS Cloud, remote server monitoring and trouble shooting.
@@ -83,11 +83,11 @@ Roles
 
 Develop software for simulating and automating architectural design 
 
-Position/Team
+### Position/Team
 - Position: Software Engineer
 - Team: Structure design development team
 
-Projects
+### Projects
 - Develop MFC(C++) framework based structure modeling and simulation Windows application
 - Implement structure design algorithm
 - Plan and develop user experience based UI/UX
