@@ -59,10 +59,20 @@ Exchange for real estate DABS(Digital Asset Backed Securities)
 - Open API system planning & development
 
 ### Projects
-- Main developer of Open API (2021.2 ~ )
-- Main developer of Trading system of DABS exchange (2020.11 ~ )
-- Main developer of Banking system with HANA Bank (2020.5 ~ )
-- User/auth service refactoring (2020.4 ~ 2020.5)
+OpenAPI system planning & development (OpenAPI TF,  2021.2 ~ Now)
+- Planning system architecture
+- Introduce API Gateway and MSA
+
+Trading service development (Trading team, 2020.11 ~ Now)
+- Trading service APIs (Order, matching)
+- Maintain core engine of trading/matching
+- Maintenance 
+
+Banking service development, *HANA Bank* (Banking team, 2020.5 ~ 2020.9)
+- Deposit and Withdrawal
+- Reconciliation
+- Fee and Tax payment
+- Maintenance 
 
 
 > ***Haafor Research Korea**, (2017.07 ~ 2020.04)*
