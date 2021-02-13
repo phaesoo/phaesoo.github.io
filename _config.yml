@@ -57,6 +57,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-5VEHZ8K2CT"
+    anonymize_ip         : # true, false (default)
+
 author:
   name   : "Haesoo Park (Tom)"
   avatar : "/assets/images/tom.jpeg"
