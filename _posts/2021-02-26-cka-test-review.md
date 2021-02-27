@@ -1,5 +1,5 @@
 ---
-title: "CKA(Certified Kubernetes Administrator) 자격증 시험 취득 후기"
+title: "CKA(Certified Kubernetes Administrator) 자격증 시험 후기"
 last_modified_at: 2021-02-26T15:21:00-00:00
 categories:
   - Blog
