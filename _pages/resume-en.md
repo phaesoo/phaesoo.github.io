@@ -7,7 +7,7 @@ title: "Resume"
 
 # Content
 
-1. [Basic information](#basic-info)
+1. [Basic information](#basic-information)
 2. [Skills](#skills)
 3. [Work Experience](#work-experience)
 
