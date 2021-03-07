@@ -23,20 +23,20 @@ twitter_username: username
 github_username: phaesoo
 minimal_mistakes_skin: "default"
 search: true
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "phaesoo-blog"
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "phaesoo-blog"
+#   discourse:
+#     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#   facebook:
+#     # https://developers.facebook.com/docs/plugins/comments
+#     appid                :
+#     num_posts            : # 5 (default)
+#     colorscheme          : # "light" (default), "dark"
+#   utterances:
+#     theme                : # "github-light" (default), "github-dark"
+#     issue_term           : # "pathname" (default)
 
 # Build settings
 markdown: kramdown
