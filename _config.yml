@@ -19,11 +19,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer Tom's Blog
 url: https://phaesoo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
+repository: phaesoo/phaesoo.github.io
 twitter_username: username
 github_username: phaesoo
 minimal_mistakes_skin: "default"
 search: true
-# comments:
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
 #   provider: "disqus"
 #   disqus:
 #     shortname: "phaesoo-blog"
