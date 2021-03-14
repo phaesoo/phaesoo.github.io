@@ -3,15 +3,20 @@ permalink: /resume-en/
 title: "Resume"
 ---
 
+
 ---
+
 
 # Content
 
 1. [Basic information](#basic-information)
-2. [Skills](#skills)
-3. [Work Experience](#work-experience)
+1. [Skills](#skills)
+1. [Certifications](#certifications)
+1. [Work Experience](#work-experience)
+
 
 ---
+
 
 # Basic information
 
@@ -20,29 +25,42 @@ title: "Resume"
 - Education: Korea university(Seoul), Bachelor's degree of civil engineering(2008.03 ~ 2015.02)
 - Email: phaesoo@gmail.com
 - Github: https://github.com/phaesoo
+- Blog: https://phaesoo.me
+
 
 ---
+
 
 # Skills
 
 ### Programming language
 - Main: Python, Go, C/C++
-- Sub: Javascript/HTML/CSS
+- Sub: Web(Javascript/HTML/CSS)
 
 ### Framework
 - Web: Django, Flask, React.js
 - Windows: MFC(C++)
 
 ### Database
-- Mysql(mariaDB), Redis, sqlite3
+- RDBMS(MySQL, PostgreSQL, sqlite3), Redis, NoSQL
 
 ### Cloud service
-- AWS administrator
+- AWS: 
 
 ### DevOps
-- Kubernetes
+- Kubernetes(CKA)
+
 
 ---
+
+
+# Certifications
+
+- *Certified Kubernetes Administrator (CKA)*, (2021.02 ~ 2024.02)
+
+
+---
+
 
 # Work Experience
 
