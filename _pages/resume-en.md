@@ -45,7 +45,7 @@ title: "Resume"
 - RDBMS(MySQL, PostgreSQL, sqlite3), Redis, NoSQL
 
 ### Cloud service
-- AWS: 
+- AWS
 
 ### DevOps
 - Kubernetes(CKA)
