@@ -34,7 +34,7 @@ title: "Resume"
 # Skills
 
 ### Programming language
-- Main: Python, Go, C/C++
+- Main: Go, Python, C/C++
 - Sub: Web(Javascript/HTML/CSS)
 
 ### Framework
