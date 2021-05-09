@@ -17,7 +17,7 @@ title: Tom's Blog
 email: phaesoo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer Tom's Blog
-url: https://phaesoo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://phaesoo.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: phaesoo/phaesoo.github.io
 twitter_username: username
