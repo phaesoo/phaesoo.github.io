@@ -20,7 +20,7 @@ title: "Resume"
 
 # Basic information
 
-- Current employment: Kasa Korea Co., Ltd
+- Current employment: Dunamu Inc.
 - Position: Software Engineer (Backend)
 - Education: Korea university(Seoul), Bachelor's degree of civil engineering(2008.03 ~ 2015.02)
 - Email: phaesoo@gmail.com
@@ -34,11 +34,10 @@ title: "Resume"
 # Skills
 
 ### Programming language
-- Main: Go, Python, C/C++
-- Sub: Web(Javascript/HTML/CSS)
+- Go, Python, C/C++, Kotlin, Ruby
 
 ### Framework
-- Web: Django, Flask, React.js
+- Web: Django, Flask, Spring, Rails
 - Windows: MFC(C++)
 
 ### Database
@@ -63,6 +62,15 @@ title: "Resume"
 
 
 # Work Experience
+
+> ***Dunamu Inc.**, (2021.05 ~ )*
+
+Crypto currency exchange
+
+### Position/Team
+- Position: Backend
+- Team: Exchange team
+
 
 > ***Kasa Korea**, (2020.04 ~ )*
 
