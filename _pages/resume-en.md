@@ -22,7 +22,7 @@ title: "Resume"
 
 - Current employment: Dunamu Inc.
 - Position: Software Engineer (Backend)
-- Education: Korea university(Seoul), Bachelor's degree of civil engineering(2008.03 ~ 2015.02)
+- Education: Korea univ.
 - Email: phaesoo@gmail.com
 - Github: https://github.com/phaesoo
 - Blog: https://phaesoo.me
@@ -34,14 +34,11 @@ title: "Resume"
 # Skills
 
 ### Programming language
-- Go, Python, C/C++, Kotlin, Ruby
+- Go, Python, Kotlin, Ruby, C/C++
 
 ### Framework
-- Web: Django, Flask, Spring, Rails
+- Web: Django, Spring Boot, Flask, Rails
 - Windows: MFC(C++)
-
-### Database
-- RDBMS(MySQL, PostgreSQL, sqlite3), Redis, NoSQL
 
 ### Cloud service
 - AWS
@@ -68,7 +65,7 @@ title: "Resume"
 Crypto currency exchange
 
 ### Position/Team
-- Position: Backend
+- Position: Backend Software Engineer
 - Team: Exchange team
 
 
